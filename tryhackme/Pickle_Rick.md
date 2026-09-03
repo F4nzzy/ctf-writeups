@@ -1,6 +1,6 @@
 First thing I did was to access the web app and view the source. 
 
-
+<img width="799" height="398" alt="image" src="https://github.com/user-attachments/assets/b92f3f3f-41fb-46b7-bca1-302fadfd157e" />
 
 This revealed the username.
 The next thing i did was use gobuster to find any hidden directories. 
