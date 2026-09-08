@@ -4,7 +4,7 @@ First I connected to the port with netcat
 Then I wrote this script to find the key that is used to decrypt the hex string
 <img width="824" height="370" alt="image" src="https://github.com/user-attachments/assets/4cae77ca-eb97-471d-b6c8-564dff040edb" />
 
-Running the script gave the key:
+Running the script gave the key
 <img width="217" height="97" alt="image" src="https://github.com/user-attachments/assets/0a35e62d-0052-49c4-b32c-d966441727bd" />
 
 Then taking this key to an online XOR decoder gave me the first flag
